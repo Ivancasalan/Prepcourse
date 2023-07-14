@@ -1,2 +1,1 @@
-# Prepcourse
-Es un repositorio dos del curso 
+Este es un proyecto prueba y clonarlo a la computadora
